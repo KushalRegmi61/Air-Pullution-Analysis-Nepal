@@ -169,3 +169,14 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+# self
+
+# Ignore data files
+/datafiles
+
+# waqi data
+/waqi_data
+tempCodeRunnerFile.ipynb
+
