@@ -472,3 +472,5 @@ Date,dew,humidity,pm1,pm10,pm25,pressure,temperature,wind-speed,aqi_value,aqi_ca
 2025-04-15,12.0,74.5,128.0,53.0,141.0,1019.0,18.5,1.2,141.0,Unhealthy for Sensitive Groups
 2025-04-16,15.5,73.0,126.0,61.0,142.0,1017.0,19.5,1.5,142.0,Unhealthy for Sensitive Groups
 2025-04-17,15.5,85.0,137.0,68.0,154.0,1016.0,17.5,1.2,154.0,Unhealthy
+
+
